@@ -1,0 +1,1 @@
+PYOPENGL_PLATFORM=osmesa MUJOCO_GL=osmesa PYTHONPATH=. python maml_examples/cluster_maml_trpo_ant.py
